@@ -134,9 +134,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #f6bf01;
+    border-color: #1E529F;
     color: #fff;
-    background-color: #fec503;
+    background-color: #1E529F;
 }
 
 .btn-xl:active,
@@ -184,7 +184,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fec503;
+    color: #1E529F;
 }
 
 .navbar-default .navbar-collapse {
@@ -299,7 +299,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 65px;
+        padding-top: 75px;
         padding-bottom: 200px;
     }
 

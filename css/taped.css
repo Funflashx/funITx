@@ -1,45 +1,27 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
 
-*{
-	padding:0;
-	margin:0;
+/*STYLE TYPEWARP*/
+
+.wrap {
+    max-width: 600px;
+    margin: 150px auto;
 }
 
-body{
-	font-family: "Ubuntu", sans-serif;
-	font-size: 100%;
-	background:#f8f8f8;
-}
-
-a{
-	text-decoration: none;
-	color:#666;
-}
-	a:hover{
-		color:#999;
-	}
-p{
-	line-height: 2em;
-	margin:0 0 20px;
-	text-align: center;
-}
-
-.wrap{
-	max-width: 600px;
-	margin:150px auto;
-}
-
-.type-wrap{
-    margin: 0px 281px 0px 281px;
-	padding:20px;
-	background:#f0f0f0;
-	border-radius:5px;
-	border:#CCC 1px solid;
+.type-wrap {
+    font-family: "Ubuntu", sans-serif;
+    margin: 0 281px 0 281px;
+    padding: 20px;
+    background: rgba(196, 204, 211, 1.0);
+    border-radius: 5px;
+    border: #CCC 1px solid;
+    line-height: 2em;
+    text-align: center;
+    color: #343839;
 
 }
 
-.links{
-	margin:20px 0;
-	font-size: 0.75em;
-	text-align: center;
+.links {
+    margin: 20px 0;
+    font-size: 0.75em;
+    text-align: center;
 }
